@@ -1,17 +1,17 @@
-- menu_name: "Services"
+- menu_name: "خدمات"
 
-- name: "Contact"
+- name: "تواصل معنا"
   url: "/contact/"
-  title: "Contact"
+  title: "تواصل معنا"
 
 - name: "RSS"
   url: "/feed.xml"
-  title: "Subscribe to RSS Feed"
+  title: "إشترك في تغذية RSS"
 
 - name: "Atom"
   url: "/atom.xml"
-  title: "Subscribe to Atom Feed"
+  title: "إشترك في تغذية Atom"
 
 - name: "sitemap.xml"
   url: "/sitemap.xml"
-  title: "Sitemap for Google Webmaster Tools"
+  title: "خريطة الموقع ل Google Webmaster Tools"

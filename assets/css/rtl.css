@@ -1,0 +1,9 @@
+---
+sitemap:
+  exclude: true
+---
+@charset "utf-8";
+
+div {
+    direction: rtl;
+}
