@@ -13,7 +13,7 @@ permalink: "/contact/"
 
 * بريدنا الإلكتروني: <br/>
     [info@cewla.org][1]
-* طوال أيام الأسبوع من التاسعة صباحا حتى الرابعة عصرا ما عدا الجمعة و السبت على الخط الساخن: <br/>
+* خطنا الساخن (طوال أيام الأسبوع من التاسعة صباحا حتى الرابعة عصرا ما عدا الجمعة و السبت): <br/>
     <a class="social-btn" style="white-space: nowrap" href="tel:+49 271 740-3577" target="_blank" rel="noopener noreferrer">
       <i dir="ltr" class="fa fa-fw fa-phone">02 7154562</i>
     </a>
